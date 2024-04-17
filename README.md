@@ -3,6 +3,7 @@
 <li>💻 I am interested in frontend development on React</li>
 <li>📈 I am a 4th year student at the SSAU S.P.Korolev</li>
 <li>📩 How to contact me: <a href="https://t.me/topyrkinaaa">t.me/topyrkinaaa</a> or <a href="topyrkinaalina@gmail.com">topyrkinaalina@gmail.com</a></li>
+<li>🎯 <a href="https://www.behance.net/gallery/196407451/rezjume-programmista-IT-FRONTEND">View resume</a></li>
 
 <div id="header" align="center">
   <img
